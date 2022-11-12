@@ -1,1 +1,3 @@
 TOKEN=YOUR TOKEN HERE
+
+// change the name from this is env.txt to .env
